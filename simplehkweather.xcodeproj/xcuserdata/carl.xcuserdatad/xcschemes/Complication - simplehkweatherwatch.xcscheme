@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0920"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C37B9C431C9C555C004AD80C"
+               BuildableName = "simplehkweatherwatch.app"
+               BlueprintName = "simplehkweatherwatch"
+               ReferencedContainer = "container:simplehkweather.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C37B9C4F1C9C555D004AD80C"
+               BuildableName = "simplehkweatherwatch Extension.appex"
+               BlueprintName = "simplehkweatherwatch Extension"
+               ReferencedContainer = "container:simplehkweather.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C3FAF6DE1AEBAD90004B3089"
+               BuildableName = "simplehkweather WatchKit Extension.appex"
+               BlueprintName = "simplehkweather WatchKit Extension"
+               ReferencedContainer = "container:simplehkweather.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C3837FF0189F9DB600206B57"
+               BuildableName = "simplehkweather.app"
+               BlueprintName = "simplehkweather"
+               ReferencedContainer = "container:simplehkweather.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C37B9C431C9C555C004AD80C"
+            BuildableName = "simplehkweatherwatch.app"
+            BlueprintName = "simplehkweatherwatch"
+            ReferencedContainer = "container:simplehkweather.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "32">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/&#x9999;&#x6e2f;&#x7c21;&#x660e;&#x5929;&#x6c23; HK Weather Lite">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C37B9C431C9C555C004AD80C"
+            BuildableName = "simplehkweatherwatch.app"
+            BlueprintName = "simplehkweatherwatch"
+            ReferencedContainer = "container:simplehkweather.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES"
+      launchAutomaticallySubstyle = "32">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/&#x9999;&#x6e2f;&#x7c21;&#x660e;&#x5929;&#x6c23; HK Weather Lite">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C37B9C431C9C555C004AD80C"
+            BuildableName = "simplehkweatherwatch.app"
+            BlueprintName = "simplehkweatherwatch"
+            ReferencedContainer = "container:simplehkweather.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C37B9C431C9C555C004AD80C"
+            BuildableName = "simplehkweatherwatch.app"
+            BlueprintName = "simplehkweatherwatch"
+            ReferencedContainer = "container:simplehkweather.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Complication - simplehkweatherwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Glance - simplehkweatherwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Notification - simplehkweatherwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>simplehkweather.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>simplehkweatherToday.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>simplehkweatherwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C37B9C431C9C555C004AD80C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3837FF0189F9DB600206B57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3838014189F9DB600206B57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3DD63FF1B6BDA3500C3FD92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3DD64131B6BDD7100C3FD92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3FAF6C41AEBA55F004B3089</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3FAF6EC1AEBAD91004B3089</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
